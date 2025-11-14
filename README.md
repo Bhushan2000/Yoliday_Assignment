@@ -21,9 +21,9 @@ Make sure you have the following installed:
 
 > Replace the image paths below with your actual screenshot file names.
 
-| Screenshot 1 | Screenshot 2 | Screenshot 3 |
-|-------------|--------------|--------------|
-| ![Screen 1](screenshots/screen1.png) | ![Screen 2](screenshots/screen2.png)
+| Screenshot 1 | Screenshot 2 |
+|-------------|--------------|
+| ![Screen 1](screenshots/screen1.png) | ![Screen 2](screenshots/screen2.png) |
 
 ---
 
