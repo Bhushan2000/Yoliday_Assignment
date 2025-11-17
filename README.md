@@ -23,7 +23,7 @@ Make sure you have the following installed:
 
 | Screenshot 1 | Screenshot 2 |
 |-------------|--------------|
-| ![Screen 1](screenshots/screen1.png) | ![Screen 2](screenshots/screen2.png) |
+| ![Screen 1](screenshots/screen1.jpeg) | ![Screen 2](screenshots/screen2.jpeg) |
 
 ---
 
